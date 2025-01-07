@@ -1,4 +1,4 @@
 # apnacollage_demo
-Author - Adesh Patil (ac)
+Author - Adesh Patil 
 </br>
 Welcome
